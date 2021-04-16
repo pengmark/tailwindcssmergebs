@@ -1,0 +1,3 @@
+CMD
+安裝： npm install -D tailwindcss@latest postcss@latest autoprefixer@latest
+編譯：　npx tailwindcss-cli@latest build -o tailwind.css
